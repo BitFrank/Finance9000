@@ -1,2 +1,3 @@
 # Finance9000
-9000.finance
+
+http://9000.finance
